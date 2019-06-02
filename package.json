@@ -1,0 +1,29 @@
+{
+  "name": "posys",
+  "version": "1.0.0",
+  "description": "Javascript, CSS Packages Management.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "jquery": "^3.2",
+    "bootstrap": "^4.0.0",
+    "laravel-mix": "^4.0.7",
+    "sass": "^1.15.2",
+    "sass-loader": "^7.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maithanhduyan/posys.git"
+  },
+  "keywords": [
+    "posys"
+  ],
+  "author": "An Mai Thành Duy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/maithanhduyan/posys/issues"
+  },
+  "homepage": "https://github.com/maithanhduyan/posys#readme"
+}
